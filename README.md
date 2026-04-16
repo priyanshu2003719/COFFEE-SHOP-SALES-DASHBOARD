@@ -12,9 +12,13 @@ DOWNLOAD THE DATASET & YOU WILL GET PIVOT TABLES & INTERACTIVE DASHBOARD.
 
 ## PROJECT STEPS:
 To achieve the project objective, the following data analysis process is followed:
+
 1.Data Cleaning: Format the 9,971 transaction records, ensuring dates (2021–2023) and currency values are consistent.
+
 2.Pivot Table Creation: Aggregate raw data to calculate KPIs such as total revenue ($46,374) and sales by city.
+
 3.Visualization: Generate charts to illustrate trends across 7 product categories and 17 shop locations.
+
 4.Dashboard Assembly: Integrate slicers and filters for interactive, multi-year business insight generation.
 
 ## PROJECT FEATURES:
