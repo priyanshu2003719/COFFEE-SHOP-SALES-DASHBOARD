@@ -5,10 +5,7 @@ The objective of this project is to use Excel and Pivot Tables to analyze 9,971 
 
 ## PROJECT DATASET USED:
 - <a href= "https://github.com/priyanshu2003719/COFFEE-SHOP-SALES-DASHBOARD/blob/main/Coffee%20Shop%20Sales%20Data...xlsx"> PROJECT DATASET</a>:
-
-DOWNLOAD THE DATASET & YOU WILL GET :
-1. PIVOT TABLES.
-2. INTERACTIVE DASHBOARD.
+DOWNLOAD THE DATASET & YOU WILL GET PIVOT TABLES & INTERACTIVE DASHBOARD.
 
 ## VIEW DASHBOARD:
 - <a href= "https://github.com/priyanshu2003719/COFFEE-SHOP-SALES-DASHBOARD/blob/main/DASHBOARD.png">DASHBOARD</a>
@@ -20,7 +17,7 @@ To achieve the project objective, the following data analysis process is followe
 3.Visualization: Generate charts to illustrate trends across 7 product categories and 17 shop locations.
 4.Dashboard Assembly: Integrate slicers and filters for interactive, multi-year business insight generation.
 
-## PROJECT INSIGHTS:
+## PROJECT FEATURES:
 1.Import data from Excel, CSV, or database
 
 ->The project successfully imported a Excel dataset containing 9,971 transaction records spanning the years 2021 to 2023. This multi-year data serves as the foundation for identifying long-term business trends and growth patterns.
