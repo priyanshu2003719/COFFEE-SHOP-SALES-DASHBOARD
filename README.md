@@ -1,2 +1,5 @@
 # COFFEE-SHOP-SALES-DASHBOARD
-This project analyzes 9,971 transactions from a coffee shop chain (2021–2023). Using Excel and Pivot Tables, it transforms raw data into a dashboard visualizing $46,374 in revenue across 5 cities to identify key sales trends and profitability.
+# PROJECT OBJECTIVE:
+This project utilizes Excel and Pivot Tables to analyze 9,971 transactions, visualizing $46,374 in revenue and key KPIs to identify sales trends and regional performance across 17 coffee shop locations.
+
+
