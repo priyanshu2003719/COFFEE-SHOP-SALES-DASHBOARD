@@ -39,6 +39,29 @@ Learn data visualization, KPI tracking, and business insight generation
 ## DASHBOARD:
 <img width="1292" height="668" alt="DASHBOARD" src="https://github.com/user-attachments/assets/e9b52685-a174-4fa7-b06c-fd39243c0715" />
 
+## KEY BUSINESS INSIGHTS:
+1.Total Revenue: Generated $\$46,374$ in total sales across all branches.
+
+2.Top City: Chicago led all regions, contributing over $\$11,200$ revenue.
+
+3.Best Category: Desserts performed best, earning $\$7,204$ in total sales.
+
+4.Yearly Peak: 2022 was the strongest year with $\$15,746$ revenue.
+
+5.Profitability: Maintained a consistent $35\%$ profit margin across categories.
+
+6.Sales Volume: Sold $14,117$ total units over the three-year period.
+
+7.Daily Trends: Sunday saw the highest transaction volume with $1,412$ sales.
+
+8.Lowest Market: Seattle recorded the lowest revenue at $\$5,587$ total.
+
+9.Monthly Peak: January was the highest-earning month across all years.
+
+10.Category Stability: All seven product categories earned above $\$6,200$ each.
+
+## CONCLUSION:
+This project successfully transformed 9,971 raw transactions into a dynamic Excel dashboard. By analyzing $\$46,374$ in revenue from 2021 to 2023, we identified Chicago and Desserts as primary growth drivers. These actionable insights provide a strategic roadmap to optimize profitability and operations across all 17 coffee shop locations.
 
 
 
