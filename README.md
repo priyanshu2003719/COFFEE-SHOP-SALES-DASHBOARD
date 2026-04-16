@@ -1,5 +1,10 @@
 # COFFEE-SHOP-SALES-DASHBOARD
-# PROJECT OBJECTIVE:
-This project utilizes Excel and Pivot Tables to analyze 9,971 transactions, visualizing $46,374 in revenue and key KPIs to identify sales trends and regional performance across 17 coffee shop locations.
+
+## PROJECT OBJECTIVE:
+The objective of this project is to use Excel and Pivot Tables to analyze 9,971 transactions from 2021 to 2023, visualizing $46,374 in revenue to identify multi-year sales trends and regional performance.
+
+
+
+
 
 
