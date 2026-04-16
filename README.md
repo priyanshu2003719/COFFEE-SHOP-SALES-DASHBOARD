@@ -7,9 +7,6 @@ The objective of this project is to use Excel and Pivot Tables to analyze 9,971 
 - <a href= "https://github.com/priyanshu2003719/COFFEE-SHOP-SALES-DASHBOARD/blob/main/Coffee%20Shop%20Sales%20Data...xlsx"> PROJECT DATASET</a>:
 DOWNLOAD THE DATASET & YOU WILL GET PIVOT TABLES & INTERACTIVE DASHBOARD.
 
-## VIEW DASHBOARD:
-- <a href= "https://github.com/priyanshu2003719/COFFEE-SHOP-SALES-DASHBOARD/blob/main/DASHBOARD.png">DASHBOARD</a>
-
 ## PROJECT STEPS:
 To achieve the project objective, the following data analysis process is followed:
 
@@ -41,6 +38,7 @@ Learn data visualization, KPI tracking, and business insight generation
 
 ## DASHBOARD:
 <img width="1292" height="668" alt="DASHBOARD" src="https://github.com/user-attachments/assets/e9b52685-a174-4fa7-b06c-fd39243c0715" />
+
 
 
 
