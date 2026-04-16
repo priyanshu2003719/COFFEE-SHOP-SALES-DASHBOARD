@@ -39,7 +39,9 @@ Learn data visualization, KPI tracking, and business insight generation
 
 ->The final outcome is a comprehensive dashboard that converts three years of raw logs into actionable business insights, demonstrating how to track year-over-year growth and identify high-margin regions effectively.
 
-## 
+## DASHBOARD:
+<img width="1292" height="668" alt="DASHBOARD" src="https://github.com/user-attachments/assets/e9b52685-a174-4fa7-b06c-fd39243c0715" />
+
 
 
 
